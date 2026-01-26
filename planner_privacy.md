@@ -1,231 +1,160 @@
-# Terms of Service for Person Planner
+# Privacy Policy for Person Planner
 
 **Last Updated:** January 26, 2026  
 **Effective Date:** January 26, 2026
 
----
+## Introduction
 
-## 1. Acceptance of Terms
-
-By downloading, installing, or using Person Planner ("App"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the App.
+Welcome to Person Planner ("we," "our," or "us"). We are committed to protecting your privacy and ensuring you have a positive experience using our mobile application ("App"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information.
 
 ---
 
-## 2. Description of Service
+## Information We Collect
 
-Person Planner is a personal productivity application that allows you to:
+### Information You Provide
 
-- Create and manage tasks with priorities and due dates
-- Track expenses and budgets
-- View tasks and events in a calendar format
-- Sync data across devices (when signed in)
+- **Account Information:** Email address, display name, and profile picture when you create an account
+- **User Content:** Tasks, expenses, notes, and other data you create within the App
+- **Authentication Data:** Login credentials when using email/password, or tokens from Google/Apple Sign-In
 
----
+### Information Collected Automatically
 
-## 3. User Accounts
-
-### Account Creation
-- You may use the App as a guest without an account
-- Creating an account requires valid email, Google, or Apple credentials
-- You are responsible for maintaining account security
-
-### Account Responsibilities
-- You must provide accurate information
-- You must not share your account credentials
-- You must notify us of any unauthorized use
-- You must be at least 13 years old to create an account
+- **Device Information:** Device type, operating system version, unique device identifiers
+- **Usage Data:** App features used, actions taken, time spent in the App
+- **Analytics Data:** Crash reports and performance metrics
+- **Advertising Identifiers:** IDFA (iOS) for personalized advertising, with your consent
 
 ---
 
-## 4. Acceptable Use
+## How We Use Your Information
 
-You agree NOT to:
+We use your information to:
 
-- Use the App for any illegal purpose
-- Attempt to gain unauthorized access to our systems
-- Interfere with the App's functionality
-- Upload malicious content or code
-- Impersonate another person or entity
-- Use the App to spam or harass others
-- Reverse engineer or decompile the App
-
----
-
-## 5. User Content
-
-### Ownership
-- You retain ownership of content you create (tasks, expenses, notes)
-- You grant us a license to store and display your content to provide the service
-
-### Content Guidelines
-- You are responsible for content you create
-- We may remove content that violates these Terms
-- We do not monitor private user content
+- Provide and maintain the App
+- Sync your data across devices
+- Send notifications and reminders you've set
+- Improve and optimize the App
+- Display relevant advertisements
+- Respond to your inquiries and support requests
+- Comply with legal obligations
 
 ---
 
-## 6. Intellectual Property
+## Third-Party Services
 
-### Our Property
-- The App, including design, code, and features, is our property
-- Person Planner name, logo, and branding are our trademarks
-- You may not copy, modify, or distribute our intellectual property
+We use the following third-party services:
 
-### Third-Party Content
-- Some icons and fonts are licensed from third parties
-- Third-party trademarks remain property of their owners
+### Firebase (Google)
+- **Purpose:** Authentication, cloud storage, analytics
+- **Data Shared:** Account info, user content, usage data
+- **Privacy Policy:** [firebase.google.com/support/privacy](https://firebase.google.com/support/privacy)
 
----
+### Google AdMob
+- **Purpose:** Display advertisements
+- **Data Shared:** Device identifiers, ad interaction data
+- **Privacy Policy:** [google.com/policies/privacy](https://policies.google.com/privacy)
 
-## 7. Subscription and Payments
+### Apple Sign-In
+- **Purpose:** User authentication
+- **Data Shared:** Name, email (with your consent)
+- **Privacy Policy:** [apple.com/legal/privacy](https://www.apple.com/legal/privacy/)
 
-### Free Features
-- Basic task management is available for free
-- Guest mode is available without account creation
-
-### In-App Purchases (If Applicable)
-- Purchases are processed through Apple App Store
-- Prices are displayed before purchase
-- All purchases are final unless required by law
-- Subscription cancellation policies follow Apple's guidelines
-
----
-
-## 8. Advertisements
-
-- The App displays advertisements through Google AdMob
-- Ads help us keep the App free
-- You may opt out of personalized ads in Settings
-- Ad content is provided by third-party advertisers
+### Google Sign-In
+- **Purpose:** User authentication
+- **Data Shared:** Name, email, profile picture
+- **Privacy Policy:** [google.com/policies/privacy](https://policies.google.com/privacy)
 
 ---
 
-## 9. Privacy
+## App Tracking Transparency
 
-Your privacy is important to us. Please review our [Privacy Policy](/privacy) to understand how we collect, use, and protect your information.
-
----
-
-## 10. Disclaimers
-
-### "As Is" Service
-THE APP IS PROVIDED "AS IS" WITHOUT WARRANTIES OF ANY KIND. WE DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING:
-
-- Merchantability
-- Fitness for a particular purpose
-- Non-infringement
-- Accuracy or reliability of content
-
-### No Guarantee
-We do not guarantee that:
-
-- The App will be uninterrupted or error-free
-- Defects will be corrected
-- The App is free of viruses or harmful components
+On iOS 14.5 and later, we request your permission before tracking your activity across other companies' apps and websites for advertising purposes. You can change this setting at any time in your device's Settings > Privacy > Tracking.
 
 ---
 
-## 11. Limitation of Liability
+## Data Storage and Security
 
-TO THE MAXIMUM EXTENT PERMITTED BY LAW:
-
-- We are not liable for indirect, incidental, special, or consequential damages
-- We are not liable for loss of data, profits, or business opportunities
-- Our total liability shall not exceed the amount you paid us in the past 12 months
-
----
-
-## 12. Indemnification
-
-You agree to indemnify and hold harmless Person Planner, its affiliates, and employees from any claims, damages, or expenses arising from:
-
-- Your use of the App
-- Your violation of these Terms
-- Your violation of any third-party rights
+- Your data is stored securely using Firebase Cloud Firestore
+- We use industry-standard encryption for data transmission (HTTPS/TLS)
+- Authentication tokens are securely stored on your device
+- We do not store your Google or Apple passwords
 
 ---
 
-## 13. Termination
+## Data Retention
 
-### By You
-- You may stop using the App at any time
-- You may delete your account in the App settings
-
-### By Us
-We may terminate or suspend your access if:
-
-- You violate these Terms
-- Your conduct may harm us or other users
-- We are required to do so by law
-- We discontinue the App
-
-### Effect of Termination
-- Your right to use the App ends immediately
-- Provisions that should survive will remain in effect
-- We may delete your data after termination
+- We retain your data as long as your account is active
+- You can delete your data at any time by deleting your account
+- After account deletion, data may be retained in backups for up to 30 days
 
 ---
 
-## 14. Changes to Terms
+## Your Rights
 
-- We may modify these Terms at any time
-- Continued use after changes constitutes acceptance
-- Significant changes will be notified in the App
+You have the right to:
 
----
-
-## 15. Governing Law
-
-These Terms are governed by the laws of [Your Jurisdiction], without regard to conflict of law principles.
+- **Access:** Request a copy of your personal data
+- **Correction:** Update or correct your information
+- **Deletion:** Delete your account and associated data
+- **Portability:** Export your data in a standard format
+- **Opt-Out:** Disable personalized advertising
 
 ---
 
-## 16. Dispute Resolution
+## Children's Privacy
 
-### Informal Resolution
-Before filing a claim, contact us to attempt informal resolution.
-
-### Binding Arbitration
-Any disputes will be resolved through binding arbitration, except where prohibited by law.
-
-### Class Action Waiver
-You agree to resolve disputes individually and waive the right to participate in class actions.
+Person Planner is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13. If you are a parent and believe your child has provided us with personal information, please contact us.
 
 ---
 
-## 17. General Provisions
+## Changes to This Privacy Policy
 
-### Entire Agreement
-These Terms constitute the entire agreement between you and Person Planner.
+We may update this Privacy Policy from time to time. We will notify you of any changes by:
 
-### Severability
-If any provision is found invalid, other provisions remain in effect.
-
-### No Waiver
-Our failure to enforce any right does not waive future enforcement.
-
-### Assignment
-You may not assign your rights under these Terms without our consent.
+- Posting the new Privacy Policy in the App
+- Updating the "Last Updated" date
+- Sending a notification for significant changes
 
 ---
 
-## 18. Contact Us
+## Contact Us
 
-For questions about these Terms:
+If you have questions about this Privacy Policy, please contact us:
 
-**Email:** support@personplanner.app  
-**Website:** https://personplanner.app/contact
+**Email:** privacy@personplanner.app  
+**Website:** https://personplanner.app/contact  
 
 ---
 
-## 19. Apple-Specific Terms
+## California Privacy Rights (CCPA)
 
-If you downloaded the App from Apple App Store:
+California residents have the right to:
 
-- Apple is not a party to these Terms
-- Apple has no obligation to provide support or maintenance
-- Apple is not responsible for any claims related to the App
-- Apple is a third-party beneficiary of these Terms
+- Know what personal information is collected
+- Know whether personal information is sold or disclosed
+- Opt-out of the sale of personal information
+- Request deletion of personal information
+- Non-discrimination for exercising these rights
+
+To exercise these rights, contact us at privacy@personplanner.app.
+
+---
+
+## European Privacy Rights (GDPR)
+
+If you are in the European Economic Area, you have additional rights under GDPR:
+
+- Right to be informed
+- Right of access
+- Right to rectification
+- Right to erasure
+- Right to restrict processing
+- Right to data portability
+- Right to object
+- Rights related to automated decision-making
+
+**Data Controller:** Person Planner  
+**Legal Basis:** Consent and legitimate interests
 
 ---
 
